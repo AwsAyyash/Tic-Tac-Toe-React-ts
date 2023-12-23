@@ -1,4 +1,4 @@
-A Tic-Tac-Toe game with react ts.
+# Tic-Tac-Toe with React TypeScript
 
 It has two ways of playing:
 
